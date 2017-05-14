@@ -1,0 +1,16 @@
+http://www.abcx.com/index.php	10/Oct/2000	5000	10	0
+http://www.abcx.com/index.php	11/Oct/2000	5000	8	2
+http://www.abcx.com/index.php	12/Oct/2000	5000	10	0
+http://www.abcx.com/index.php	13/Oct/2000	5000	10	0
+http://www.abcx.com/login.php	10/Oct/2000	10000	10	0
+http://www.abcx.com/login.php	11/Oct/2000	10000	10	0
+http://www.abcx.com/login.php	12/Oct/2000	10000	10	0
+http://www.abcx.com/login.php	13/Oct/2000	10000	10	0
+http://www.abcx.com/logout.php	10/Oct/2000	10000	10	0
+http://www.abcx.com/logout.php	11/Oct/2000	10000	10	0
+http://www.abcx.com/logout.php	12/Oct/2000	10000	10	0
+http://www.abcx.com/logout.php	13/Oct/2000	10000	10	0
+http://www.abcx.com/searching.php	10/Oct/2000	10000	10	0
+http://www.abcx.com/searching.php	11/Oct/2000	10000	20	12
+http://www.abcx.com/searching.php	12/Oct/2000	10000	10	0
+http://www.abcx.com/searching.php	13/Oct/2000	10000	10	0
